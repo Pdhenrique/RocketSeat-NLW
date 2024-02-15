@@ -1,0 +1,5 @@
+Rodar Docker 
+|-> Rodar npm i
+    |-> Rodar Npx prisma migrate dev
+
+
