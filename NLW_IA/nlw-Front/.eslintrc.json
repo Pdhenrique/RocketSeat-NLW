@@ -1,0 +1,9 @@
+{
+  "extends": "eslint-config-phs/react",
+  "rules": {
+    "prettier/prettier": ["error", {
+      "singleQuote": false,
+      "semi": false
+    }]    
+  }
+}
